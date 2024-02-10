@@ -6,11 +6,11 @@
 using namespace std;
 
 int main() {
-    cout << "瓦袄！！！！！" << endl;
+    cout << "david" << endl;
     Student s1("name1", 2);
     cout << s1.name << endl;
     for (int i = 1; i <= 10; i++) {
         cout << i << endl;
     }
-    cout << "瓦袄！" << endl;
+    cout << "bruce" << endl;
 }
